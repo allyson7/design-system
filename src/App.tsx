@@ -1,5 +1,5 @@
-import "./styles/global.css";
+import { Text } from "./components/Text";
 
 export function App() {
-  return <h1>Hello Ignite</h1>;
+  return <Text />;
 }
