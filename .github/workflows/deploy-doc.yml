@@ -32,9 +32,9 @@ jobs:
 name: 
   Workflow-trigger
 
-  on: [workflow_dispatch]
+on: [workflow_dispatch]
 
-  jobs:
+jobs:
   example:
     name: Example Job
     runs-on: ubuntu-latest
