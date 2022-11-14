@@ -2,5 +2,5 @@ import { Text } from "./components/Text";
 import "./styles/global.css";
 
 export function App() {
-  return <Text>teste</Text>;
+  return <Text>teste de texto</Text>;
 }
