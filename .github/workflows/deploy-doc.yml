@@ -28,18 +28,3 @@ jobs:
         env:
           GH_TOKEN: ${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}
 # update ci for trigger workflows
-
-name: 
-  Workflow-trigger
-
-on: [workflow_dispatch]
-
-jobs:
-  example:
-    name: Example Job
-    runs-on: ubuntu-latest
-    steps:
-      - name: Clone Repository
-        uses: actions/checkout@v2
-      - name: ...
-        run: ...s
