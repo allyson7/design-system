@@ -30,7 +30,7 @@ jobs:
 # update ci for trigger workflows
 
 name: 
-  - Workflow-trigger
+  Workflow-trigger
 
   on: [workflow_dispatch]
 
