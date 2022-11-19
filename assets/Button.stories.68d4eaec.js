@@ -1,0 +1,2 @@
+import{B as r}from"./Button.32f0ab53.js";import{j as t}from"./jsx-runtime.8956b9f1.js";import"./index.module.765320dd.js";import"./index.e71af562.js";import"./iframe.8f13a886.js";import"./clsx.m.256e9345.js";const d={title:"Components/Button",component:r,args:{children:"Create account"},argTypes:{asChild:{table:{disable:!0}}}},e={};e.decorators=[o=>t("div",{style:{width:400},children:t(o,{})})];const l=["Default"];export{e as Default,l as __namedExportsOrder,d as default};
+//# sourceMappingURL=Button.stories.68d4eaec.js.map
